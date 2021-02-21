@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Phu (John) Nguyen
-Master of Computer Science Student | Seeking Full-Time SDE Job | Java, PHP | 8 years experienced SE | 2021 Graduation
+- 🔭 Master of Computer Science Student
+- 🌱 Seeking Full-Time SDE Job | Java, PHP
+- 📫 8 years experienced SE | 2021 Graduation
